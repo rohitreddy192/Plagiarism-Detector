@@ -1,0 +1,6 @@
+django
+pymysql
+numpy
+matplotlib
+nltk
+opencv-python
