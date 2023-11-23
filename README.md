@@ -1,7 +1,6 @@
 # PLAGIARISM DETECTOR 
-  A SCALABLE SYSTEM FOR IDENTIFYING SIMILARITY OF TEXT AND IMAGE DATA FROM DOCUMENTS USING Deep Learning.
 
-## Plagiarism - Introduction
+### Introduction
 
 Plagiarism is defined as the act of taking or attempting to use another person’s works, without referencing him as the owner of his work. It may include direct copy and paste, modification or changing some words of the original information from the internet books, magazine, newspaper, research, journal, personal information or ideas. Tools designed to deal with plagiarism act on the text and ignore images. A part of information transfer are images that transfer the large volume of information. With our plagiarism detector, we strive to spread awareness of text and as well as image plagiarism while letting people know how they can prevent it.
 
