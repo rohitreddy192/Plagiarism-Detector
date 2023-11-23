@@ -18,11 +18,11 @@ To overcome the drawbacks of the existing system, the proposed system has been i
 This project aims to detect plagiarized images and text files by selectively employing analysis methods depending on their suitability for the input image, using a flexible procedure to determine suspicious image similarities.
 
 ### Advantages of Proposed System: 
-1.More accuracy.
-2.Less time taking process.
+1. More accuracy.
+2. Less time taking process.
 
 
-## Software Requirements:
+### Software Requirements:
 1. Python 3.x
 2. Django
 3. XAMPP
@@ -30,5 +30,11 @@ This project aims to detect plagiarized images and text files by selectively emp
 5. MySQL
 6. VS Code
 
+### Future Scope:
+    This can be further improvised to detect the plagiarism in the following fields:-
+    1. Music Field.
+    2. Art.
+    3. Code Files.
 
-
+### Contributions:
+    Anyone who would like to contribute to this repo is encouraged!
