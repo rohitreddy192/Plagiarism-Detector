@@ -23,13 +23,22 @@ This project aims to detect plagiarized images and text files by selectively emp
 
 
 ### Software Requirements:
-1. Python 3.x
-2. Django
-3. XAMPP
-4. NLTK, OpenCV
-5. MySQL
-6. VS Code
+1. Python (Version 3.6 or above)
+2. Django (Version 1.11 or above)
+3. Operating System: Windows (Version 8 or above)
+4. Designing: HTML, CSS, Javascript
+5. Database: MySQL
+6. XAMPP (Version 7.4.29 or above)
+7. NLTK (Natural Language Toolkit)
 
+### System Implementation:
+##### Modules:
+    1. **User Login:** User Signup process is completed within this module and clicks on "Login" so that user can login.
+    2.** Upload Source Files:** This module is used to upload source files and it loads all files from corpus folder.
+    3. **Upload Suspicious Files:** Upload Suspicious files to load suspicious file.
+    4.** Upload Source Image:** Upload source images module to upload all images from "images" folder and all database images histogram will be calculated and store in array and whenever we upload new test image then both histogram will be matched.
+    5. **Upload Suspicious Image:** Upload suspicious image to upload some image to cheeck for plagiarism.
+    
 ### Future Scope:
     This can be further improvised to detect the plagiarism in the following fields:-
     1. Music Field.
